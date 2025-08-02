@@ -1,5 +1,7 @@
 # **Análisis Estadístico**
 
+# Tabla de contenidos
+
 1. **[Mision](#Mision)**
 1. **[Objetivos](#Objetivos)**
 1. **[Habilidades](#Habilidades)**
